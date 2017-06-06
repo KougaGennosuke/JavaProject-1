@@ -15,7 +15,7 @@ public class HelloWorld {
 		data[7] = "";
 		data[8] = "";
 		data[9] = "";
-		data[10] = "";
+		data[10] = "4161110:めんこ、ラグビー、バトミントン、大相撲、調理実習";
 		data[11] = "";
 		data[12] = "";
 		data[13] = "";
